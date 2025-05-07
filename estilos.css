@@ -45,23 +45,3 @@ button:hover {
     box-shadow: 0 4px 10px rgba(0,0,0,0.3); 
 }
 
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 1.1em;
-        padding: 10px;
-    }
-
-    h1 {
-        font-size: 2.5em;
-    }
-
-    .imagen-intermedia {
-        width: 100%;
-        max-width: 300px;  /* Limita el tamaño máximo de la imagen */
-    }
-
-    button {
-        padding: 12px 25px;
-        font-size: 1em;
-    }
-}
